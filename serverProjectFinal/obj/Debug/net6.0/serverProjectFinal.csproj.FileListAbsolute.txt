@@ -1,0 +1,1034 @@
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\appsettings.Development.json
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\appsettings.json
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.exe
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.deps.json
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.runtimeconfig.json
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.pdb
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Humanizer.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.OpenApi.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Data.SqlClient.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Drawing.Common.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Runtime.Caching.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Security.Permissions.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Windows.Extensions.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.csproj.AssemblyReference.cache
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.GeneratedMSBuildEditorConfig.editorconfig
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.AssemblyInfoInputs.cache
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.AssemblyInfo.cs
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.csproj.CoreCompileInputs.cache
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.MvcApplicationPartsAssemblyInfo.cs
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.MvcApplicationPartsAssemblyInfo.cache
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.serverProjectFinal.Microsoft.AspNetCore.StaticWebAssets.props
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.build.serverProjectFinal.props
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.serverProjectFinal.props
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.serverProjectFinal.props
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets.pack.json
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets.build.json
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets.development.json
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\scopedcss\bundle\serverProjectFinal.styles.css
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.csproj.CopyComplete
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\refint\serverProjectFinal.dll
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.pdb
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.genruntimeconfig.cache
+M:\angular\client&server\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\ref\serverProjectFinal.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\refint\serverProjectFinal.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.pdb
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.AssemblyInfo.cs
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\appsettings.json
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.exe
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.deps.json
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.runtimeconfig.json
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.pdb
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Humanizer.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\scopedcss\bundle\serverProjectFinal.styles.css
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.csproj.CopyComplete
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.genruntimeconfig.cache
+C:\Users\The user\Desktop\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\ref\serverProjectFinal.dll
+D:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.csproj.AssemblyReference.cache
+D:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.AssemblyInfoInputs.cache
+D:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.AssemblyInfo.cs
+D:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.csproj.CoreCompileInputs.cache
+D:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.MvcApplicationPartsAssemblyInfo.cs
+D:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.MvcApplicationPartsAssemblyInfo.cache
+D:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.dll
+D:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\refint\serverProjectFinal.dll
+D:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.pdb
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\appsettings.Development.json
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\appsettings.json
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.exe
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.deps.json
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.runtimeconfig.json
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.pdb
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Humanizer.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.serverProjectFinal.Microsoft.AspNetCore.StaticWebAssets.props
+D:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.build.serverProjectFinal.props
+D:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.serverProjectFinal.props
+D:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.serverProjectFinal.props
+D:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets.pack.json
+D:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets.build.json
+D:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets.development.json
+D:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\scopedcss\bundle\serverProjectFinal.styles.css
+D:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.csproj.CopyComplete
+D:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.genruntimeconfig.cache
+D:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\ref\serverProjectFinal.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\AutoMapper.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.csproj.AssemblyReference.cache
+F:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.GeneratedMSBuildEditorConfig.editorconfig
+F:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.AssemblyInfoInputs.cache
+F:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.AssemblyInfo.cs
+F:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.csproj.CoreCompileInputs.cache
+F:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.MvcApplicationPartsAssemblyInfo.cs
+F:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.MvcApplicationPartsAssemblyInfo.cache
+F:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.dll
+F:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\refint\serverProjectFinal.dll
+F:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.pdb
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\appsettings.Development.json
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\appsettings.json
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.exe
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.deps.json
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.runtimeconfig.json
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.pdb
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\AutoMapper.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Humanizer.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.serverProjectFinal.Microsoft.AspNetCore.StaticWebAssets.props
+F:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.build.serverProjectFinal.props
+F:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.serverProjectFinal.props
+F:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.serverProjectFinal.props
+F:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets.pack.json
+F:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets.build.json
+F:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets.development.json
+F:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\scopedcss\bundle\serverProjectFinal.styles.css
+F:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.csproj.CopyComplete
+F:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.genruntimeconfig.cache
+F:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\ref\serverProjectFinal.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\appsettings.Development.json
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\appsettings.json
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.exe
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.deps.json
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.runtimeconfig.json
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.pdb
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\AutoMapper.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Humanizer.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.csproj.AssemblyReference.cache
+E:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.AssemblyInfoInputs.cache
+E:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.AssemblyInfo.cs
+E:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.csproj.CoreCompileInputs.cache
+E:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.MvcApplicationPartsAssemblyInfo.cs
+E:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.MvcApplicationPartsAssemblyInfo.cache
+E:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.serverProjectFinal.Microsoft.AspNetCore.StaticWebAssets.props
+E:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.build.serverProjectFinal.props
+E:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.serverProjectFinal.props
+E:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.serverProjectFinal.props
+E:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets.pack.json
+E:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets.build.json
+E:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets.development.json
+E:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\scopedcss\bundle\serverProjectFinal.styles.css
+E:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.csproj.CopyComplete
+E:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.dll
+E:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\refint\serverProjectFinal.dll
+E:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.pdb
+E:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.genruntimeconfig.cache
+E:\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\ref\serverProjectFinal.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\libman.json
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\libman.json
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\appsettings.Development.json
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\libman.json
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\appsettings.json
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.exe
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.deps.json
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.runtimeconfig.json
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.pdb
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\AutoMapper.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Humanizer.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.csproj.AssemblyReference.cache
+C:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.AssemblyInfoInputs.cache
+C:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.AssemblyInfo.cs
+C:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.csproj.CoreCompileInputs.cache
+C:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.MvcApplicationPartsAssemblyInfo.cs
+C:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.MvcApplicationPartsAssemblyInfo.cache
+C:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.serverProjectFinal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.build.serverProjectFinal.props
+C:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.serverProjectFinal.props
+C:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.serverProjectFinal.props
+C:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets.pack.json
+C:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets.build.json
+C:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets.development.json
+C:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\scopedcss\bundle\serverProjectFinal.styles.css
+C:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.csproj.CopyComplete
+C:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.dll
+C:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\refint\serverProjectFinal.dll
+C:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.pdb
+C:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.genruntimeconfig.cache
+C:\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\ref\serverProjectFinal.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Scrutor.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Scrutor.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Scrutor.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\refint\serverProjectFinal.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.pdb
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\appsettings.Development.json
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\appsettings.json
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\libman.json
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.exe
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.deps.json
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.runtimeconfig.json
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.pdb
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\AutoMapper.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Humanizer.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Scrutor.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\gibuy2\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.csproj.AssemblyReference.cache
+C:\gibuy2\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\gibuy2\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.AssemblyInfoInputs.cache
+C:\gibuy2\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.AssemblyInfo.cs
+C:\gibuy2\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.csproj.CoreCompileInputs.cache
+C:\gibuy2\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.MvcApplicationPartsAssemblyInfo.cs
+C:\gibuy2\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.MvcApplicationPartsAssemblyInfo.cache
+C:\gibuy2\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.serverProjectFinal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\gibuy2\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.build.serverProjectFinal.props
+C:\gibuy2\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.serverProjectFinal.props
+C:\gibuy2\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.serverProjectFinal.props
+C:\gibuy2\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets.pack.json
+C:\gibuy2\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets.build.json
+C:\gibuy2\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets.development.json
+C:\gibuy2\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\scopedcss\bundle\serverProjectFinal.styles.css
+C:\gibuy2\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.csproj.CopyComplete
+C:\gibuy2\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.genruntimeconfig.cache
+C:\gibuy2\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\ref\serverProjectFinal.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Data.Edm.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Data.OData.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Data.Services.Client.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Spatial.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\de\Microsoft.Data.Edm.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\es\Microsoft.Data.Edm.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\fr\Microsoft.Data.Edm.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\it\Microsoft.Data.Edm.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ja\Microsoft.Data.Edm.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ko\Microsoft.Data.Edm.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ru\Microsoft.Data.Edm.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\de\Microsoft.Data.OData.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\es\Microsoft.Data.OData.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\fr\Microsoft.Data.OData.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\it\Microsoft.Data.OData.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ja\Microsoft.Data.OData.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ko\Microsoft.Data.OData.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ru\Microsoft.Data.OData.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\de\Microsoft.Data.Services.Client.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\es\Microsoft.Data.Services.Client.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\fr\Microsoft.Data.Services.Client.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\it\Microsoft.Data.Services.Client.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ja\Microsoft.Data.Services.Client.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ko\Microsoft.Data.Services.Client.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ru\Microsoft.Data.Services.Client.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\de\System.Spatial.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\es\System.Spatial.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\fr\System.Spatial.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\it\System.Spatial.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ja\System.Spatial.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ko\System.Spatial.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ru\System.Spatial.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hans\System.Spatial.resources.dll
+E:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hant\System.Spatial.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Data.Edm.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Data.OData.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Data.Services.Client.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Spatial.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\de\Microsoft.Data.Edm.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\es\Microsoft.Data.Edm.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\fr\Microsoft.Data.Edm.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\it\Microsoft.Data.Edm.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ja\Microsoft.Data.Edm.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ko\Microsoft.Data.Edm.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ru\Microsoft.Data.Edm.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\de\Microsoft.Data.OData.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\es\Microsoft.Data.OData.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\fr\Microsoft.Data.OData.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\it\Microsoft.Data.OData.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ja\Microsoft.Data.OData.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ko\Microsoft.Data.OData.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ru\Microsoft.Data.OData.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\de\Microsoft.Data.Services.Client.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\es\Microsoft.Data.Services.Client.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\fr\Microsoft.Data.Services.Client.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\it\Microsoft.Data.Services.Client.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ja\Microsoft.Data.Services.Client.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ko\Microsoft.Data.Services.Client.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ru\Microsoft.Data.Services.Client.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\de\System.Spatial.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\es\System.Spatial.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\fr\System.Spatial.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\it\System.Spatial.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ja\System.Spatial.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ko\System.Spatial.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ru\System.Spatial.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hans\System.Spatial.resources.dll
+F:\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hant\System.Spatial.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\appsettings.Development.json
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\appsettings.json
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\libman.json
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.exe
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.deps.json
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.runtimeconfig.json
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.pdb
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\AutoMapper.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Humanizer.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Data.Edm.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Data.OData.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Data.Services.Client.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Scrutor.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Spatial.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\de\Microsoft.Data.Edm.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\es\Microsoft.Data.Edm.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\fr\Microsoft.Data.Edm.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\it\Microsoft.Data.Edm.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ja\Microsoft.Data.Edm.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ko\Microsoft.Data.Edm.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ru\Microsoft.Data.Edm.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\de\Microsoft.Data.OData.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\es\Microsoft.Data.OData.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\fr\Microsoft.Data.OData.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\it\Microsoft.Data.OData.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ja\Microsoft.Data.OData.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ko\Microsoft.Data.OData.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ru\Microsoft.Data.OData.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\de\Microsoft.Data.Services.Client.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\es\Microsoft.Data.Services.Client.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\fr\Microsoft.Data.Services.Client.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\it\Microsoft.Data.Services.Client.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ja\Microsoft.Data.Services.Client.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ko\Microsoft.Data.Services.Client.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ru\Microsoft.Data.Services.Client.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\de\System.Spatial.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\es\System.Spatial.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\fr\System.Spatial.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\it\System.Spatial.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ja\System.Spatial.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ko\System.Spatial.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ru\System.Spatial.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hans\System.Spatial.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hant\System.Spatial.resources.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.csproj.AssemblyReference.cache
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.AssemblyInfoInputs.cache
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.AssemblyInfo.cs
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.csproj.CoreCompileInputs.cache
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.MvcApplicationPartsAssemblyInfo.cs
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.MvcApplicationPartsAssemblyInfo.cache
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.serverProjectFinal.Microsoft.AspNetCore.StaticWebAssets.props
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.build.serverProjectFinal.props
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.serverProjectFinal.props
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.serverProjectFinal.props
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets.pack.json
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets.build.json
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets.development.json
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\scopedcss\bundle\serverProjectFinal.styles.css
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.csproj.CopyComplete
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\refint\serverProjectFinal.dll
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.pdb
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.genruntimeconfig.cache
+D:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\ref\serverProjectFinal.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\appsettings.Development.json
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\appsettings.json
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\libman.json
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.exe
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.deps.json
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.runtimeconfig.json
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.pdb
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\AutoMapper.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Humanizer.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Data.Edm.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Data.OData.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Data.Services.Client.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Scrutor.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Spatial.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\de\Microsoft.Data.Edm.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\es\Microsoft.Data.Edm.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\fr\Microsoft.Data.Edm.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\it\Microsoft.Data.Edm.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ja\Microsoft.Data.Edm.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ko\Microsoft.Data.Edm.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ru\Microsoft.Data.Edm.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\de\Microsoft.Data.OData.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\es\Microsoft.Data.OData.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\fr\Microsoft.Data.OData.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\it\Microsoft.Data.OData.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ja\Microsoft.Data.OData.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ko\Microsoft.Data.OData.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ru\Microsoft.Data.OData.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\de\Microsoft.Data.Services.Client.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\es\Microsoft.Data.Services.Client.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\fr\Microsoft.Data.Services.Client.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\it\Microsoft.Data.Services.Client.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ja\Microsoft.Data.Services.Client.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ko\Microsoft.Data.Services.Client.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ru\Microsoft.Data.Services.Client.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\de\System.Spatial.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\es\System.Spatial.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\fr\System.Spatial.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\it\System.Spatial.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ja\System.Spatial.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ko\System.Spatial.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ru\System.Spatial.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hans\System.Spatial.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hant\System.Spatial.resources.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.csproj.AssemblyReference.cache
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.GeneratedMSBuildEditorConfig.editorconfig
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.AssemblyInfoInputs.cache
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.AssemblyInfo.cs
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.csproj.CoreCompileInputs.cache
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.MvcApplicationPartsAssemblyInfo.cs
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.MvcApplicationPartsAssemblyInfo.cache
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.serverProjectFinal.Microsoft.AspNetCore.StaticWebAssets.props
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.build.serverProjectFinal.props
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.serverProjectFinal.props
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.serverProjectFinal.props
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets.pack.json
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets.build.json
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets.development.json
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\scopedcss\bundle\serverProjectFinal.styles.css
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.csproj.CopyComplete
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\refint\serverProjectFinal.dll
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.pdb
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.genruntimeconfig.cache
+E:\שנה ב -מסלול\פרויקטים\angular+api-final\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\ref\serverProjectFinal.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\appsettings.json
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\libman.json
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.exe
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.deps.json
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.runtimeconfig.json
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\serverProjectFinal.pdb
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Data.Edm.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Data.OData.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Data.Services.Client.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Scrutor.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Spatial.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\de\Microsoft.Data.Edm.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\es\Microsoft.Data.Edm.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\it\Microsoft.Data.Edm.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\de\Microsoft.Data.OData.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\es\Microsoft.Data.OData.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\fr\Microsoft.Data.OData.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\it\Microsoft.Data.OData.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ja\Microsoft.Data.OData.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ko\Microsoft.Data.OData.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ru\Microsoft.Data.OData.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\de\System.Spatial.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\es\System.Spatial.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\fr\System.Spatial.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\it\System.Spatial.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ja\System.Spatial.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ko\System.Spatial.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\ru\System.Spatial.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hans\System.Spatial.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\zh-Hant\System.Spatial.resources.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.AssemblyInfo.cs
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.serverProjectFinal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.build.serverProjectFinal.props
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.serverProjectFinal.props
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.serverProjectFinal.props
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\scopedcss\bundle\serverProjectFinal.styles.css
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.csproj.CopyComplete
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\refint\serverProjectFinal.dll
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.pdb
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\serverProjectFinal.genruntimeconfig.cache
+C:\Users\user1\Desktop\project\serverProjectFinal\serverProjectFinal\obj\Debug\net6.0\ref\serverProjectFinal.dll
