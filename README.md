@@ -18,8 +18,11 @@ As an admin, you can:
 - Send emails to winners (Challenge task).
 
 ## Running the API:
-1. Ensure you're using .NET Core 3.1 or higher.
-2. Clone this repository and navigate to the project directory.
-3. Build the database with the command:
+1. Pre-requisites: Microsoft Visual Studio 2022 version (and on). Microsoft SQL Server Management Studio (SSMS)
+2. Ensure you're using .NET Core 3.1 or higher.
+3. Clone this repository and navigate to the project directory.
+4. Build the database with the command:
    ```bash
    dotnet ef database update
+   You can use the capabilities of CODE FIRST and this is how the DB will be created.
+   
