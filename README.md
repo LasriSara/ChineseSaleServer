@@ -1,4 +1,4 @@
-# Web API - מכירה סינית (Server Side)
+# Web API - ChainaSail (Server Side)
 
 This is the backend part of the system for managing a Chinese lottery sale. It is built using ASP.NET Core Web API.
 
